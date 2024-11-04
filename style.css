@@ -1,0 +1,31 @@
+
+h1 span{
+    color: red;
+    font-size: 60px;
+    font-family: sans-serif;
+}
+.imagea{
+  width: 150px;
+  height: 150px;  
+  border-radius: 50%;
+}
+h2 {
+   text-align: left;
+   font-size: 20px;
+}
+.test{
+    text-align: center;
+}
+.link{
+    color: blue;
+}
+.test2{
+    background-image: url('./b.jpg');
+    text-align: center;
+    height: 500px;
+    width: 1000px;
+    color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
